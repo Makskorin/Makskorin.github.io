@@ -1,0 +1,22 @@
+footer{
+	height: 230px;
+	background-color:black;
+	font-size: 35px;
+	text-align: center;
+}
+footer a{
+	list-style: none;
+	text-decoration: none;
+	color: white;
+}
+footer a:hover{
+	text-decoration: none;
+	color: white;
+}
+footer p{
+	color:gray; 
+}
+footer li{
+	list-style: none;
+	text-decoration: none;
+}
